@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61a9dba6-6f85-4b53-8dee-3ab645600806" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="ProjectId" id="1YY9jnwAeFTH0fjYEe6HWvGi3II" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build demo0302 (3)">
+    <configuration name="go build demo0302 (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="demo0302" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/demo8_标准输入.go" />
+      <package value="demo0302" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build demo0302 (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="demo0302" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/demo9_if语句嵌套.go" />
+      <package value="demo0302" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build demo0302 (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="demo0302" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/demo10_if语句扩展.go" />
+      <package value="demo0302" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build demo0302 (5)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="demo0302" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/demo6_ifelse练习.go" />
+      <package value="demo0302" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build demo0302" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="demo0302" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/demo7_键盘输入.go" />
+      <package value="demo0302" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build demo0302 (3)" />
+        <item itemvalue="Go Build.go build demo0302 (2)" />
+        <item itemvalue="Go Build.go build demo0302 (1)" />
+        <item itemvalue="Go Build.go build demo0302" />
+        <item itemvalue="Go Build.go build demo0302 (5)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="366" y="40" key="#go_build_demo0302" timestamp="1583114891166">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="366" y="40" key="#go_build_demo0302/0.0.1280.760@0.0.1280.760" timestamp="1583114891166" />
+    <state x="366" y="40" key="#go_build_demo0302_(1)" timestamp="1583132500049">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="366" y="40" key="#go_build_demo0302_(1)/0.0.1280.760@0.0.1280.760" timestamp="1583132500049" />
+    <state x="366" y="40" key="#go_build_demo0302_(2)" timestamp="1583134025954">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="366" y="40" key="#go_build_demo0302_(2)/0.0.1280.760@0.0.1280.760" timestamp="1583134025954" />
+    <state x="366" y="40" key="#go_build_demo0302_(3)" timestamp="1583134682793">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="366" y="40" key="#go_build_demo0302_(3)/0.0.1280.760@0.0.1280.760" timestamp="1583134682793" />
+    <state x="366" y="40" key="#go_build_demo0302_(4)" timestamp="1583114078232">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="366" y="40" key="#go_build_demo0302_(4)/0.0.1280.760@0.0.1280.760" timestamp="1583114078232" />
+    <state x="366" y="40" key="#go_build_demo0302_(5)" timestamp="1583114711896">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="366" y="40" key="#go_build_demo0302_(5)/0.0.1280.760@0.0.1280.760" timestamp="1583114711896" />
+    <state width="1219" height="179" key="GridCell.Tab.0.bottom" timestamp="1583135474104">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1219" height="179" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1583135474104" />
+    <state width="1219" height="179" key="GridCell.Tab.0.center" timestamp="1583135474098">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1219" height="179" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1583135474098" />
+    <state width="1219" height="179" key="GridCell.Tab.0.left" timestamp="1583135474092">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1219" height="179" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1583135474089" />
+    <state width="1219" height="179" key="GridCell.Tab.0.right" timestamp="1583135474099">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1219" height="179" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1583135474099" />
+    <state x="310" y="81" key="search.everywhere.popup" timestamp="1583133472717">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="310" y="81" key="search.everywhere.popup/0.0.1280.760@0.0.1280.760" timestamp="1583133472717" />
+  </component>
+</project>
